@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Comfortaa:wght@300;400;500;600;700&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Open Sars";
+}
+
+.container {
+    padding: 0 170px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-item {
+    display: flex;
+    padding: 25px 0;
+}
+
+.menu-link {
+    color: #222;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding-left: 32px;
+}
+
+.menu-link:hover {
+    color: #DE2E54;
+}
+
+.all-btn {
+    width: 170px;
+    height: 50px;
+    font-family: "Open Sars";
+    text-align: center;
+    background: #DE2E54;
+    color: #FFF;
+    border-radius: 8px;
+    border: #DE2E54;
+    background: #DE2E54;
+    margin: 10px 0;
+}
+
+.nav-logo {
+    display: flex;
+    align-items: center;
+}
+
+.nav-logo h4:hover {
+    color: #DE2E54;
+}
+
+.nav-logo_h4 {
+    color: #222;
+    font-size: 24px;
+    font-weight: 600;
+    padding-left: 15px;
+}
+
+.section {
+    width: 100%;
+    height: 75vh;
+    background: #0EB4C1;
+}
+
+.hero {
+    display: flex;
+    padding: 120px 0;
+    position: relative;
+}
+
+.left-text {
+    width: 550px;
+    color: #FFF;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 120%;
+    padding-bottom: 20px;
+}
+
+.left-desc {
+    width: 390px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 150%;
+    padding-bottom: 35px;
+}
+
+.hero-right {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.all-btn:hover {
+    background: rgba(222, 46, 84, 0.80);
+}
+
+.section2 {
+    padding: 120px 300px;
+}
+
+.image1 {
+    display: flex;
+    padding: 0 0 80px 0;
+}
+
+.xizmatlar {
+    padding: 0 400px 100px 400px;
+    color: #000;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 120%;
+}
+
+.images1-text {
+    color: #222;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 120%;
+    padding: 35px;
+}
+
+.images1-desc {
+    width: 530px;
+    color: #444;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    padding: 0 0 0 35px;
+}
+
+.last {
+    margin: 0 0 0 400px;
+}
+
+.section3 {
+    background: #0EB4C1;
+    padding: 64px 496px;
+}
+
+.royxat {
+    color: #FFF;
+    font-family: "Open Sans";
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 120%;
+    padding: 0 0 50px 0;
+}
+
+.tel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 25px 0 0;
+    width: 380px;
+    height: 50px;
+    font-size: 16px;
+    border: 2px solid #fff;
+    border-radius: 8px;
+}
+
+.tel a {
+    color: #fff;
+}
+
+.tel:hover {
+    background: #DE2E54;
+}
+
+.tg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 380px;
+    height: 50px;
+    font-size: 16px;
+    border: 2px solid #fff;
+    border-radius: 8px;
+}
+
+.tg a {
+    color: #fff;
+}
+
+.tg:hover {
+    background: #DE2E54;
+}
+
+.buttons {
+    display: flex;
+}
+
+footer {
+    background: #000;
+    padding: 20px 0;
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+}
+
+.footer-logo_h4 {
+    color: #FFF;
+    font-family: "Open Sans";
+    font-size: 24px;
+    font-weight: 600;
+    padding-left: 15px;    
+}
+
+.footer-logo_h4:hover {
+    color: #DE2E54;
+}
+
+.div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-itemm {
+    display: flex;
+}
+
+.menu-linkk {
+    color: #FFF;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding-left: 32px;
+}
+
+.menu-linkk:hover {
+    color: #DE2E54;
+}
